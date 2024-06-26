@@ -1,5 +1,3 @@
-<h3 align="center">computer science engineering undergraduate</h3>
-
 - 📫 How to reach me **nimetha.21@cse.mrt.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
