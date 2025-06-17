@@ -1,9 +1,3 @@
-<!-- Animated Fun Avatar -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="fun-avatar" width="140"/>
-</p>
-
-
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -23,6 +17,3 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="cool-animation"/>
 </p>
 
-<!--
-
--->
