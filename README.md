@@ -10,10 +10,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaviNimz&theme=tokyo-night&hide_border=true" alt="Savinu's Activity Graph"/>
 </p>
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="cool-animation"/>
-</p>
-
